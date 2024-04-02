@@ -1,4 +1,6 @@
-
 body {
-background-color: aqua;
+    background: linear-gradient(to bottom,cyan,rgb(4, 0, 255));
+    height: 100vh;
+    margin: 0;
+
 }
