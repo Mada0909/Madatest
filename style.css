@@ -5,9 +5,9 @@ body {
 }
 
 .mada1 {
-    background: linear-gradient(to bottom, cyan,rgb(4, 0, 255));
-    height: 100vh;
-    margin: 0;
+    background: linear-gradient(to bottom, #ffffff, #f0f0f0); /* Gradiente de fundo */
+    padding: 20px;
+    border: 1px solid #ccc;
 }
 
 .imagem img {
