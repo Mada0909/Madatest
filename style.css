@@ -6,7 +6,7 @@ body {
 
 .mada1 {
     background: linear-gradient(to bottom, cyan,rgb(4, 0, 255));
-    padding: 20px;
+    height: 100vh;
     border: 1px solid #ccc;
 }
 
