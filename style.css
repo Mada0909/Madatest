@@ -1,6 +1,19 @@
 body {
-    background: linear-gradient(to bottom,cyan,rgb(4, 0, 255));
+    background: linear-gradient(to bottom, cyan, rgb(4, 0, 255));
     height: 100vh;
     margin: 0;
+}
 
+.mada1 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.imagem img {
+    margin: 10px;
+}
+
+.botão {
+    margin-top: 20px;
 }
